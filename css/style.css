@@ -1,0 +1,10 @@
+#count-down-app {
+  margin: 100px;
+}
+
+#count-down-app > span {
+  font-size: 50px;
+  font-weight: bold;
+  color: #00ff00;
+  font-family: cursive;
+}
